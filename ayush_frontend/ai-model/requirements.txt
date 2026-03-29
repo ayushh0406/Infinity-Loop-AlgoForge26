@@ -1,8 +1,0 @@
-fastapi
-uvicorn[standard]
-xgboost
-shap
-pandas
-numpy
-scikit-learn
-python-multipart
