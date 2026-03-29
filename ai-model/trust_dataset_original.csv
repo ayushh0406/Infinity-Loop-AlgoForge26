@@ -1,0 +1,11 @@
+user_type,avg_monthly_income,income_volatility,upi_success_rate,bill_payment_delay_days,monthly_repayment_cap,essential_spend_ratio,account_age_months,loan_default_history,savings_consistency,trust_score_target
+salaried,65000,0.12,0.97,1,18000,0.50,48,0,0.82,78.5
+gig_worker,25000,0.45,0.88,8,6000,0.68,12,0,0.35,58.2
+student,10000,0.72,0.75,15,2500,0.85,6,0,0.15,32.1
+salaried,95000,0.08,0.99,0,25000,0.42,72,0,0.88,89.3
+gig_worker,35000,0.38,0.92,5,9000,0.62,24,0,0.48,67.8
+student,8000,0.68,0.72,20,1800,0.92,4,1,0.10,18.5
+salaried,120000,0.06,0.98,1,32000,0.38,84,0,0.90,94.2
+gig_worker,28000,0.52,0.85,12,7000,0.75,8,0,0.28,45.3
+student,12000,0.65,0.78,18,3000,0.88,8,0,0.22,38.7
+salaried,75000,0.14,0.96,2,20000,0.48,60,0,0.80,81.2
